@@ -30,7 +30,7 @@ In your terminal, link your local repository to the GitHub repository:
 
 
 git remote add origin https://github.com/RahulSuryasen/task-management-system.git
-Replace yourusername with your actual GitHub username.
+
 
 Push your changes to GitHub:
 git push -u origin master
